@@ -1,0 +1,52 @@
+<NESTING_RESULT CARDINALITA_PEZZI="0" MAXDIAMETER="10" CUTTER_DIA="0.1" RESOLUTION="0.1" CLEARANCE="0.01" ORDINE="0" INTERNI="0" RETT="0" NOMI_UNIVOCI="0" GEOM="0">
+  <COMMESSA>
+    <DESCR>RYAN_LABL123_20 ; 03/03/2020 09:07:16 ; LABL123_20</DESCR>
+  </COMMESSA>
+  <FOGLIO PATH="RYAN_LABL123_20_0001(1).bSolid" OffsetPart="0" QTY="1" NAME="LBL1234.xml" ID="1" PACK="1" RepRecognitionId="1">
+    <SheetInfo Name="LBL1234" DX="2440" DY="1220" DZ="20" GrainDirection="N" Materiale="LABL123" Resto="0">
+      <INFO>
+        <CUSTOM_INFO name="Waste.Thickness" value="20" />
+        <CUSTOM_INFO name="Waste.ProjectName" value="RYAN" />
+        <CUSTOM_INFO name="Sheet.Code" value="LBL1234" />
+        <CUSTOM_INFO name="Sheet.Description" value="" />
+        <CUSTOM_INFO name="Sheet.IsGrained" value="0" />
+        <CUSTOM_INFO name="Material.Code" value="LABL123" />
+        <CUSTOM_INFO name="Material.Description" value="" />
+      </INFO>
+    </SheetInfo>
+    <StatisticInfo PartUsedArea="1150000" />
+    <NOME>LABEL.bSolid<PROFILO>LABEL.bnt<PartName Value="LBL123654" /><UserCustomId Value="000000000008" /><UserCustomName Value="LBL123654" /><ComputationInfo><RequestInfo Min="5" Max="5" /><OffsetInfo External="0" Holes="0" /><RotationalInfo RotationalStep="270" GrainDirection="None" /></ComputationInfo><VARIABILE NAME="LPX">500</VARIABILE><VARIABILE NAME="LPY">400</VARIABILE><VARIABILE NAME="LPZ">20</VARIABILE><INFO><CUSTOM_INFO name="ORDER_ID" value="" /><CUSTOM_INFO name="CLIENT" value="" /><CUSTOM_INFO name="CUSTOM_DESCR_1" value="RYAN" /><CUSTOM_INFO name="CUSTOM_DESCR_2" value="LBL123654" /><CUSTOM_INFO name="CUSTOM_DESCR_3" value="LABL123" /></INFO><DRW><GeometryContainer Consider="Now"><Original minX="0" maxX="500" minY="0" maxY="400"><POINT x="0" y="400" th="0" /><LINE xs="0" ys="400" xe="0" ye="0" th="0" /><LINE xs="0" ys="0" xe="500" ye="0" th="0" /><LINE xs="500" ys="0" xe="500" ye="400" th="0" /><LINE xs="500" ys="400" xe="0" ye="400" th="0" /></Original><Computed passThrough="1" minX="-10" maxX="510" minY="-10" maxY="410"><POINT x="0" y="400" th="20" /><LINE xs="0" ys="400" xe="0" ye="0" th="20" /><LINE xs="0" ys="0" xe="500" ye="0" th="20" /><LINE xs="500" ys="0" xe="500" ye="400" th="20" /><LINE xs="500" ys="400" xe="0" ye="400" th="20" /></Computed></GeometryContainer></DRW><POS PackLayer="1" ID="1" LabelApplicationMode="2"><X>-0.0399999999999103</X><Y>499.96</Y><DEG>-90</DEG><Production MinRequested="5" MaxRequested="5" MinInstanceNum="1" MaxInstanceNum="1" /><LABEL data="RYAN_LABL123_20;1;1;1" labelName="TEST" labelrot="-90" X="199.96" Y="249.96" Intersect="false" /></POS><POS PackLayer="1" ID="1" LabelApplicationMode="2"><X>-0.0399999999999423</X><Y>1020.04</Y><DEG>-90</DEG><Production MinRequested="5" MaxRequested="5" MinInstanceNum="2" MaxInstanceNum="2" /><LABEL data="RYAN_LABL123_20;2;1;1" labelName="TEST" labelrot="-90" X="199.96" Y="770.04" Intersect="false" /></POS><POS PackLayer="1" ID="1" LabelApplicationMode="2"><X>420.04</X><Y>499.96</Y><DEG>-90</DEG><Production MinRequested="5" MaxRequested="5" MinInstanceNum="3" MaxInstanceNum="3" /><LABEL data="RYAN_LABL123_20;3;1;1" labelName="TEST" labelrot="-90" X="620.04" Y="249.96" Intersect="false" /></POS><POS PackLayer="1" ID="1" LabelApplicationMode="2"><X>420.04</X><Y>1020.04</Y><DEG>-90</DEG><Production MinRequested="5" MaxRequested="5" MinInstanceNum="4" MaxInstanceNum="4" /><LABEL data="RYAN_LABL123_20;4;1;1" labelName="TEST" labelrot="-90" X="620.04" Y="770.04" Intersect="false" /></POS><POS PackLayer="1" ID="1" LabelApplicationMode="2"><X>840.12</X><Y>499.96</Y><DEG>-90</DEG><Production MinRequested="5" MaxRequested="5" MinInstanceNum="5" MaxInstanceNum="5" /><LABEL data="RYAN_LABL123_20;5;1;1" labelName="TEST" labelrot="-90" X="1040.12" Y="249.96" Intersect="false" /></POS></PROFILO></NOME>
+    <NOME>s.bSolid<PROFILO>s.bnt<PartName Value="sv143" /><UserCustomId Value="000000000011" /><UserCustomName Value="sv143" /><ComputationInfo><RequestInfo Min="5" Max="5" /><OffsetInfo External="0" Holes="0" /><RotationalInfo RotationalStep="0" GrainDirection="None" /></ComputationInfo><VARIABILE NAME="LPX">200</VARIABILE><VARIABILE NAME="LPY">150</VARIABILE><VARIABILE NAME="LPZ">20</VARIABILE><INFO><CUSTOM_INFO name="ORDER_ID" value="" /><CUSTOM_INFO name="CLIENT" value="" /><CUSTOM_INFO name="CUSTOM_DESCR_1" value="RYAN" /><CUSTOM_INFO name="CUSTOM_DESCR_2" value="sv143" /><CUSTOM_INFO name="CUSTOM_DESCR_3" value="LABL123" /></INFO><DRW><GeometryContainer Consider="Now"><Original minX="0" maxX="200" minY="0" maxY="150"><POINT x="0" y="150" th="0" /><LINE xs="0" ys="150" xe="0" ye="0" th="0" /><LINE xs="0" ys="0" xe="200" ye="0" th="0" /><LINE xs="200" ys="0" xe="200" ye="150" th="0" /><LINE xs="200" ys="150" xe="0" ye="150" th="0" /></Original><Computed minX="-10" maxX="210" minY="-10" maxY="160"><POINT x="0" y="150" th="20" /><LINE xs="0" ys="150" xe="0" ye="0" th="20" /><LINE xs="0" ys="0" xe="200" ye="0" th="20" /><LINE xs="200" ys="0" xe="200" ye="150" th="20" /><LINE xs="200" ys="150" xe="0" ye="150" th="20" /></Computed></GeometryContainer></DRW><POS PackLayer="1" ID="1" LabelApplicationMode="2"><X>-0.0400000000000666</X><Y>1040.12</Y><DEG>0</DEG><Production MinRequested="5" MaxRequested="5" MinInstanceNum="1" MaxInstanceNum="1" /><LABEL data="RYAN_LABL123_20;1;2;1" labelName="TEST" labelrot="0" X="99.9599999999999" Y="1115.12" Intersect="false" /></POS><POS PackLayer="1" ID="1" LabelApplicationMode="2"><X>220.04</X><Y>1040.12</Y><DEG>0</DEG><Production MinRequested="5" MaxRequested="5" MinInstanceNum="2" MaxInstanceNum="2" /><LABEL data="RYAN_LABL123_20;2;2;1" labelName="TEST" labelrot="0" X="320.04" Y="1115.12" Intersect="false" /></POS><POS PackLayer="1" ID="1" LabelApplicationMode="2"><X>440.12</X><Y>1040.12</Y><DEG>0</DEG><Production MinRequested="5" MaxRequested="5" MinInstanceNum="3" MaxInstanceNum="3" /><LABEL data="RYAN_LABL123_20;3;2;1" labelName="TEST" labelrot="0" X="540.12" Y="1115.12" Intersect="false" /></POS><POS PackLayer="1" ID="1" LabelApplicationMode="2"><X>660.2</X><Y>1040.12</Y><DEG>0</DEG><Production MinRequested="5" MaxRequested="5" MinInstanceNum="4" MaxInstanceNum="4" /><LABEL data="RYAN_LABL123_20;4;2;1" labelName="TEST" labelrot="0" X="760.2" Y="1115.12" Intersect="false" /></POS><POS PackLayer="1" ID="1" LabelApplicationMode="2"><X>840.12</X><Y>520.04</Y><DEG>0</DEG><Production MinRequested="5" MaxRequested="5" MinInstanceNum="5" MaxInstanceNum="5" /><LABEL data="RYAN_LABL123_20;5;2;1" labelName="TEST" labelrot="0" X="940.12" Y="595.04" Intersect="false" /></POS></PROFILO></NOME>
+    <FOGLIO.PartsLabelInfo>
+      <DRW>
+        <GeometryContainer Consider="Now">
+          <Original minX="-51" maxX="51" minY="-32" maxY="32">
+            <LINE xs="-51" ys="-32" xe="-51" ye="32" th="0" />
+            <LINE xs="-51" ys="32" xe="51" ye="32" th="0" />
+            <LINE xs="51" ys="32" xe="51" ye="-32" th="0" />
+            <LINE xs="51" ys="-32" xe="-51" ye="-32" th="0" />
+          </Original>
+        </GeometryContainer>
+      </DRW>
+    </FOGLIO.PartsLabelInfo>
+    <EditingModes ByCad="True" />
+    <FOGLIO.Programs>
+      <PanelDefinitionProgram>
+        <Program Name="PanelDefinition">
+          <Program.Statements>
+            <Statement Name="PanelData">
+              <Statement.Assignments>
+                <Assignment Name="LPX" Value="2440" />
+                <Assignment Name="LPY" Value="1220" />
+                <Assignment Name="LPZ" Value="20" />
+                <Assignment Name="OriginList" Value="1" />
+                <Assignment Name="UniqueOrigin" Value="True" />
+                <Assignment Name="SubprogramMerge" Value="1" />
+              </Statement.Assignments>
+            </Statement>
+          </Program.Statements>
+        </Program>
+      </PanelDefinitionProgram>
+    </FOGLIO.Programs>
+  </FOGLIO>
+</NESTING_RESULT>

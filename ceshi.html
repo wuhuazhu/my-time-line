@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script type="text/javascript" src="xml2json.js"></script>
+  <script type="text/javascript">
+    // <![CDATA[
+    // string with XML
+    let xmlstr = '<?xml version="1.0" encoding="UTF-8"?><websites>'+
+        '<site id="1" pr="5"><title>Web Programming Courses</title><url>http://coursesweb.net/</url></site>'+
+        '<site id="2" pr="4"><title>Courses Games Anime</title><url>http://www.marplo.net/</url></site>'+
+        '</websites>';
+
+    // gets the JSON string
+    let jsonstr = xml2json.fromStr(xmlstr, 'string');
+console.log(jsonstr);
+    // adds the JSON string in HTML element with id="jsnstr"
+    document.getElementById('jsnstr').innerHTML = jsonstr;
+    // ]]>
+  </script>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
